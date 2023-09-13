@@ -10,7 +10,7 @@
     "withKernelSU": true,
     "toolchains": [
       {
-        "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/bsp-diting-s-oss",
+        "repo": "https://github.com/kdrag0n/proton-clang",
         "branch": "master",
         "name": "proton-clang",
         "binPath": ["bin"]
