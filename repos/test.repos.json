@@ -5,7 +5,7 @@
       "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
       "branch": "bsp-diting-s-oss",
       "device": "Redmi K50 Ultra",
-      "defconfig": "gki_defconfig"
+      "defconfig": "diting_GKI.config"
     },
     "withKernelSU": true,
     "toolchains": [
