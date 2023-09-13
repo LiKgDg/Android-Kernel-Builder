@@ -5,7 +5,7 @@
       "repo": "https://github.com/LiKgDg/android_kernel_xiaomi_diting",
       "branch": "diting-s-oss",
       "device": "Redmi K50 Ultra",
-      "defconfig": "generic_vm_defconfig"
+      "defconfig": "defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
